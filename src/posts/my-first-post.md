@@ -10,7 +10,7 @@ tags:
   - center
   - right
 ---
-# This is a Heading h1
+# Content management tester
 
 ## This is a Heading h2
 
@@ -18,7 +18,7 @@ tags:
 
 ## Emphasis
 
-*This text will be italic*\
+*this is a test*\
 *This will also be italic*
 
 **This text will be bold**\
